@@ -50,11 +50,12 @@ const FormattedDatetime = ({ pubDatetime, modDatetime }: DatetimesProps) => {
 
   const date = myDatetime.toLocaleDateString(LOCALE.langTag, {
     year: "numeric",
-    month: "short",
-    day: "numeric",
+    month: "2-digit",
+    day: "2-digit",
   });
 
   const time = myDatetime.toLocaleTimeString(LOCALE.langTag, {
+    hour12: false,
     hour: "2-digit",
     minute: "2-digit",
   });
