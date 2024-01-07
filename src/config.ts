@@ -5,9 +5,9 @@ export const SITE: Site = {
   author: "parrot808080",
   desc: "Blog",
   title: "Paro-Space🦜",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "coverimage.png",
   lightAndDarkMode: true,
-  postPerPage: 3,
+  postPerPage: 10,
 };
 
 export const LOCALE = {
