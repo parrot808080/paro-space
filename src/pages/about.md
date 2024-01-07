@@ -2,17 +2,23 @@
 layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
-## Me
-- Engineer🧑‍💻
-- Tokyo🏠
+## Author
+- Name is: parrot808080
+- Work as🧑‍💻: Engineer
+- Live in🏠: Tokyo
 
 ## This site
-- Write about...
+- will contains the contents below
   - Network
   - CloudService(AWS)
   - PKM
   - Tool(Obsidian)
   - and so on
-- 本ページは[Astro](https://astro.build/)により運営しております
-  - サイトテーマ: [Astropaper](https://github.com/satnaing/astro-paper)
+- has been hosted by [Cloudflare Pages](https://pages.cloudflare.com/).
+  - SSG: [Astro](https://astro.build/)
+  - Theme: Based on [Astropaper](https://github.com/satnaing/astro-paper)
+
+## Social media
+- [Github](https://github.com/parrot808080)
+
 
